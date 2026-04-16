@@ -22,7 +22,7 @@
 }
 
 .logo{
-    background-image: url("logo.png");
+    background-image: url("logo.jpg");
     object-fit: contain;
     background-size: contain;
     background-position: center;
